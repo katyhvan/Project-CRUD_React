@@ -1,0 +1,19 @@
+.post-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+input {
+  width: 40%;
+}
+
+.btn-add {
+  border: none;
+  border-radius: 10px;
+  margin: 10px auto;
+  background-color: #0095b6;
+  color: #ffffff;
+  padding: 8px 15px;
+}

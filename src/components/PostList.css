@@ -1,0 +1,12 @@
+.post-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 3%;
+  gap: 10px;
+}
+
+.post-img {
+  margin: 10px 0;
+  height: 150px;
+}
